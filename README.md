@@ -1,2 +1,2 @@
-# task-website.github.io
+# Loruki
 https://im-abdulmannan.github.io/Loruki/
